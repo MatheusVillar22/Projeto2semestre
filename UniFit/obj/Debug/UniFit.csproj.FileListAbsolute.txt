@@ -1,0 +1,16 @@
+C:\Users\mathe\source\repos\UniFit\bin\Debug\UniFit.exe.config
+C:\Users\mathe\source\repos\UniFit\bin\Debug\UniFit.exe
+C:\Users\mathe\source\repos\UniFit\bin\Debug\UniFit.pdb
+C:\Users\mathe\source\repos\UniFit\obj\Debug\UniFit.csproj.AssemblyReference.cache
+C:\Users\mathe\source\repos\UniFit\obj\Debug\UniFit.Cadastro.resources
+C:\Users\mathe\source\repos\UniFit\obj\Debug\UniFit.Properties.Resources.resources
+C:\Users\mathe\source\repos\UniFit\obj\Debug\UniFit.csproj.GenerateResource.cache
+C:\Users\mathe\source\repos\UniFit\obj\Debug\UniFit.csproj.CoreCompileInputs.cache
+C:\Users\mathe\source\repos\UniFit\obj\Debug\UniFit.exe
+C:\Users\mathe\source\repos\UniFit\obj\Debug\UniFit.pdb
+C:\Users\mathe\source\repos\UniFit\obj\Debug\UniFit.login.resources
+C:\Users\mathe\source\repos\UniFit\obj\Debug\UniFit.Homepg.resources
+C:\Users\mathe\source\repos\UniFit\obj\Debug\UniFit.Interface.resources
+C:\Users\mathe\source\repos\UniFit\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mathe\source\repos\UniFit\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mathe\source\repos\UniFit\obj\Debug\UniFit.csproj.CopyComplete
